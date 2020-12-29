@@ -6,7 +6,7 @@ A Node.js module that supplies what "type": "module" lacks.
 $ npm i typemodule
 ````
 ## Example
-````shell
+````javascript
 import { __dirname } from 'typemodule';
 
 var myPath = __dirname + '/path/to/directory';
