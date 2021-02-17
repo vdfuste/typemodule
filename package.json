@@ -1,6 +1,6 @@
 {
 	"name": "typemodule",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "Supplies what 'type':'module' lacks",
 	"main": "index.js",
 	"scripts": {
